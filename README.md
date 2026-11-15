@@ -12,6 +12,18 @@ My background is in enterprise software and financial technology. I hold a B.A. 
 
 <br>
 
+### `> tech --stack`
+
+<p>
+  <img src="assets/tech/python.svg" width="58" height="60" alt="Python">
+  <img src="assets/tech/fastapi.svg" width="58" height="60" alt="FastAPI">
+  <img src="assets/tech/postgresql.svg" width="58" height="60" alt="PostgreSQL">
+  <img src="assets/tech/docker.svg" width="58" height="60" alt="Docker">
+  <img src="assets/tech/typescript.svg" width="58" height="60" alt="TypeScript">
+</p>
+
+<br>
+
 ### `> ls ./projects`
 
 <br>
