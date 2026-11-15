@@ -1,16 +1,54 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Jerrod McHenry. Python / AI / Business. Software Engineering · Applied AI.">
+</p>
 
-<!--
-**JerrodMcHenry/JerrodMchenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### `> whoami`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build Python applications focused on software engineering and applied AI.
+
+My background is in enterprise software and financial technology. I hold a B.A. in Computer Science and an M.S. in Software Engineering.
+
+<br>
+
+### `> ls ./projects`
+
+<br>
+
+**`01`&nbsp;&nbsp;Financial AI Analyst**
+
+A grounded financial research agent using SEC filings, deterministic calculations, and source-verified citations.
+
+`Python` `Pydantic` <code>LLM&nbsp;tool&nbsp;calling</code> `Retrieval` `Evaluation`
+
+[Repository](https://github.com/JerrodMcHenry/financial-ai-analyst) &nbsp;·&nbsp; [Architecture](https://github.com/JerrodMcHenry/financial-ai-analyst/blob/main/docs/architecture.md)
+
+<br>
+
+**`02`&nbsp;&nbsp;IntegrationLab**
+
+A multi-tenant integration platform demonstrating REST APIs, signed webhooks, authentication, background processing, and recovery workflows.
+
+`Python` `FastAPI` `PostgreSQL` `React` `Docker`
+
+[Repository](https://github.com/JerrodMcHenry/integration-lab) &nbsp;·&nbsp; [Architecture](https://github.com/JerrodMcHenry/integration-lab/blob/main/docs/architecture.md)
+
+<br>
+
+**`03`&nbsp;&nbsp;Credit Risk ML**
+
+A machine learning classification project demonstrating cross-validation, leakage prevention, model selection, and honest evaluation.
+
+`Python` `scikit-learn` `pandas`
+
+[Repository](https://github.com/JerrodMcHenry/credit-risk-ml) &nbsp;·&nbsp; [Methodology](https://github.com/JerrodMcHenry/credit-risk-ml#methodology)
+
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/JerrodMcHenry">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jerrod-mchenry/">LinkedIn</a>
+</p>
